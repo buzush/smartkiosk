@@ -1,0 +1,2 @@
+# smartkiosk
+test clickonce
